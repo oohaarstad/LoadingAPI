@@ -1,0 +1,7 @@
+/* Enkel styling for lastemeldingen */
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Show</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Create Show</h1>
+    <form id="createForm">
+        <label for="title">Show Title:</label>
+        <input type="text" id="title" name="title" required>
+        
+        <div id="scenarios">
+            <!-- Scenarier vil bli lagt til her -->
+        </div>
+        
+        <button type="button" onclick="addScenario()">Add Scenario</button>
+        <button type="submit">Create Show</button>
+    </form>
+
+    <div class="loading" id="loading">Creating show, please wait...</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

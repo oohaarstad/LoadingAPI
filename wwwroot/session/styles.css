@@ -1,0 +1,12 @@
+/* Styling for lastemeldingen */
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}
+
+/* Skjul game over-div når den ikke er aktiv */
+#gameOver {
+    display: none;
+}

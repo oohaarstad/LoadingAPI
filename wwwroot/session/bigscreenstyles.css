@@ -1,0 +1,11 @@
+/* Styling for QR-kode og andre elementer */
+#qrcode {
+    margin-top: 20px;
+}
+
+.loading {
+    display: none;
+}
+.loading.active {
+    display: block;
+}

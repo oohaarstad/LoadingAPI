@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/index.html",
+      "PackagePath": "staticwebassets/create/index.html"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/script.js",
+      "PackagePath": "staticwebassets/create/script.js"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/styles.css",
+      "PackagePath": "staticwebassets/create/styles.css"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/index.html",
+      "PackagePath": "staticwebassets/host/index.html"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/script.js",
+      "PackagePath": "staticwebassets/host/script.js"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/styles.css",
+      "PackagePath": "staticwebassets/host/styles.css"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/join.html",
+      "PackagePath": "staticwebassets/join.html"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinscript.js",
+      "PackagePath": "staticwebassets/joinscript.js"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinstyles.css",
+      "PackagePath": "staticwebassets/joinstyles.css"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreen.html",
+      "PackagePath": "staticwebassets/session/bigscreen.html"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenscript.js",
+      "PackagePath": "staticwebassets/session/bigscreenscript.js"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenstyles.css",
+      "PackagePath": "staticwebassets/session/bigscreenstyles.css"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/index.html",
+      "PackagePath": "staticwebassets/session/index.html"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/script.js",
+      "PackagePath": "staticwebassets/session/script.js"
+    },
+    {
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/styles.css",
+      "PackagePath": "staticwebassets/session/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.LoadingAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.LoadingAPI.props",
+      "PackagePath": "build\\LoadingAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LoadingAPI.props",
+      "PackagePath": "buildMultiTargeting\\LoadingAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LoadingAPI.props",
+      "PackagePath": "buildTransitive\\LoadingAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
