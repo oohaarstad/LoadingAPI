@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ola/Downloads/Loading/LoadingAPI/LoadingAPI.csproj": {}
+    "/Users/ola/Downloads/Loading/LoadingAPI v2/LoadingAPI.csproj": {}
   },
   "projects": {
-    "/Users/ola/Downloads/Loading/LoadingAPI/LoadingAPI.csproj": {
+    "/Users/ola/Downloads/Loading/LoadingAPI v2/LoadingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ola/Downloads/Loading/LoadingAPI/LoadingAPI.csproj",
+        "projectUniqueName": "/Users/ola/Downloads/Loading/LoadingAPI v2/LoadingAPI.csproj",
         "projectName": "LoadingAPI",
-        "projectPath": "/Users/ola/Downloads/Loading/LoadingAPI/LoadingAPI.csproj",
+        "projectPath": "/Users/ola/Downloads/Loading/LoadingAPI v2/LoadingAPI.csproj",
         "packagesPath": "/Users/ola/.nuget/packages/",
-        "outputPath": "/Users/ola/Downloads/Loading/LoadingAPI/obj/",
+        "outputPath": "/Users/ola/Downloads/Loading/LoadingAPI v2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ola/.nuget/NuGet/NuGet.Config"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EKx1RfpT+EUXxeF8IimCiENyQupvNAVTSD8TCa6HRGI=",
+  "Hash": "joZKNhAvdWwToINRWfcc7sLRSaWqjMR3ho7JF0CGa6s=",
   "Source": "LoadingAPI",
   "BasePath": "_content/LoadingAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LoadingAPI/wwwroot",
       "Source": "LoadingAPI",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/index.html",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/index.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/create/index.html"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/script.js",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/script.js",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot/create/script.js"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/styles.css",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "create/styles.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/create/styles.css"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/index.html",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/index.html",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/host/index.html"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/script.js",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/script.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/host/script.js"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/styles.css",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "host/styles.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/host/styles.css"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/join.html",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/join.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "join.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/join.html"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinscript.js",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/joinscript.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "joinscript.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/joinscript.js"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinstyles.css",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/joinstyles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "joinstyles.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/joinstyles.css"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreen.html",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreen.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreen.html",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/session/bigscreen.html"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenscript.js",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreenscript.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreenscript.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/session/bigscreenscript.js"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenstyles.css",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreenstyles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/bigscreenstyles.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/session/bigscreenstyles.css"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/index.html",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/index.html",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/index.html",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/session/index.html"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/script.js",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/script.js",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/script.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/session/script.js"
     },
     {
-      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/styles.css",
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/styles.css",
       "SourceId": "LoadingAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
       "BasePath": "_content/LoadingAPI",
       "RelativePath": "session/styles.css",
       "AssetKind": "All",

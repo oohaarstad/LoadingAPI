@@ -11,7 +11,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
-        policies => policies
+        policy => policy
             .AllowAnyHeader()
             .AllowAnyMethod()
             .AllowAnyOrigin());
@@ -37,7 +37,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Comment out or remove this line
-// app.UseHttpsRedirection(); 
+// app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

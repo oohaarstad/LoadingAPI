@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/index.html",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/index.html",
       "PackagePath": "staticwebassets/create/index.html"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/script.js",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/script.js",
       "PackagePath": "staticwebassets/create/script.js"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/create/styles.css",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/create/styles.css",
       "PackagePath": "staticwebassets/create/styles.css"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/index.html",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/index.html",
       "PackagePath": "staticwebassets/host/index.html"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/script.js",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/script.js",
       "PackagePath": "staticwebassets/host/script.js"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/host/styles.css",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/host/styles.css",
       "PackagePath": "staticwebassets/host/styles.css"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/join.html",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/join.html",
       "PackagePath": "staticwebassets/join.html"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinscript.js",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/joinscript.js",
       "PackagePath": "staticwebassets/joinscript.js"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/joinstyles.css",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/joinstyles.css",
       "PackagePath": "staticwebassets/joinstyles.css"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreen.html",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreen.html",
       "PackagePath": "staticwebassets/session/bigscreen.html"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenscript.js",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreenscript.js",
       "PackagePath": "staticwebassets/session/bigscreenscript.js"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/bigscreenstyles.css",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/bigscreenstyles.css",
       "PackagePath": "staticwebassets/session/bigscreenstyles.css"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/index.html",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/index.html",
       "PackagePath": "staticwebassets/session/index.html"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/script.js",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/script.js",
       "PackagePath": "staticwebassets/session/script.js"
     },
     {
-      "Id": "/Users/ola/Downloads/Loading/LoadingAPI/wwwroot/session/styles.css",
+      "Id": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/session/styles.css",
       "PackagePath": "staticwebassets/session/styles.css"
     },
     {
