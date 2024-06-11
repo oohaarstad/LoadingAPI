@@ -97,7 +97,10 @@ function startCountdown() {
     }, 1000);
 }
 
-// Funksjon for å starte på nytt og gå tilbake til join siden
-function restart() {
-    window.location.href = '/join.html';
+// Gå til review
+function review() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const sessionId = urlParams.get('sessionId');
+    const userId = urlParams.get('userId');
+    window.location.href = `../user/review.html?sessionId=${sessionId}&userId=${userId}`;
 }

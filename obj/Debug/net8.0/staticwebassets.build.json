@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "joZKNhAvdWwToINRWfcc7sLRSaWqjMR3ho7JF0CGa6s=",
+  "Hash": "CZ4nw/XOipu7fsu80Wa47dkiklJRS7xGlh7CEyPbjV8=",
   "Source": "LoadingAPI",
   "BasePath": "_content/LoadingAPI",
   "Mode": "Default",
@@ -300,6 +300,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/session/styles.css"
+    },
+    {
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/user/review.html",
+      "SourceId": "LoadingAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
+      "BasePath": "_content/LoadingAPI",
+      "RelativePath": "user/review.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/user/review.html"
+    },
+    {
+      "Identity": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/user/review.js",
+      "SourceId": "LoadingAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ola/Downloads/Loading/LoadingAPI v2/wwwroot/",
+      "BasePath": "_content/LoadingAPI",
+      "RelativePath": "user/review.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/user/review.js"
     }
   ]
 }
